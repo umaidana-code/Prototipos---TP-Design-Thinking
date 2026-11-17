@@ -1,0 +1,6 @@
+{
+  "name": "EscenaViva ERP — Control Presupuestario",
+  "description": "Módulo de control presupuestario en tiempo real y aprobación por excepción para órdenes de compra de EscenaViva Entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
